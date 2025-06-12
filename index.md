@@ -2,14 +2,14 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Learn How to HackHerWSay-The Hacker Way!"
+description: "Learn How to HackHerWay-The Hacker Way!"
 permalink: /
 ---
 
-# Focus on writing good documentation
+# All of the Most Prettiest Links and Resources on Cyber Security & Ethical Hacking
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+HackHerWay-The Hacker Way aims to serve all of the best kayest links and resources to the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
